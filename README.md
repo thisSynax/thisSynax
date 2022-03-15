@@ -2,7 +2,7 @@
 <h3 align="center">German FiveM developer</h3>
 <h1 align="center"></h1>
 
-<br><br>
+<br>
 
 <h3 align="center">Socials</h3>
 <p align="center">
