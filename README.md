@@ -9,9 +9,7 @@
   <a href="https://steamcommunity.com/id/synax_" target="blank">
     <img align="center" src="https://www.freeiconspng.com/uploads/steam-icon-0.png" alt="Steam" height="30" width="30" />
   </a>
-  <a href="https://fb.com/adam pithen wala" target="blank">
-    <img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" height="35" width="35" />
-  </a>
+    <img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" height="35" width="35" />SynaX.#0467
 </p>
 
 <br>
