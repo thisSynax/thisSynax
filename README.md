@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">Socials</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
   <a href="https://steamcommunity.com/id/synax_" target="blank">
     <img align="center" src="https://www.freeiconspng.com/uploads/steam-icon-0.png" alt="Steam" height="30" width="30" />
@@ -16,15 +16,9 @@
 
 <h3 align="center">Tools</h3>
 <p align="center"> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" /> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="40" height="40" /> 
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="40" height="40"/> 
 </p>
 
 <br>
