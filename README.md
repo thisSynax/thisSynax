@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋<br> I'm Synax<br><br></h1>
 <h3 align="center">German FiveM developer</h3>
 <h1 align="center"></h1>
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br>
 
 <h3 align="center">Contact</h3>
