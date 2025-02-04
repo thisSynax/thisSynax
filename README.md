@@ -16,7 +16,7 @@
 <h3 align="center">Tools</h3>
 <p align="center"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL" width="40" height="40"/> 
+    <img src="https://www.navicat.com/images/05.AboutUs_00_milestone_2024_Navicat_17.svg" alt="Navicat" width="40" height="40"/> 
 </p>
 
 <br>
@@ -25,6 +25,9 @@
 <p align="center"> 
   <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"alt="lua" width="40" height="40" /> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg"alt="JavaScript" width="40" height="40" /> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="40" height="40" /> 
