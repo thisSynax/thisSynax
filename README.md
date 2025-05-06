@@ -1,42 +1,33 @@
-<h1 align="center">Hey 👋<br> I'm Synax<br><br></h1>
-<h3 align="center">🇭🇴🇧🇧🇾 🇩🇪🇻🇪🇱🇴🇵🇪🇷 🇫🇷🇴🇲 🇬🇪🇷🇲🇦🇳🇾</h3>
-<h1 align="center"></h1>
-<br>
+<h2 align="center">Im Synax 👋<br>Hobby-Developer based in Germany</h2>
 
-<h3 align="center">Contact</h3>
-<p align="center">
-    <img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" height="35" width="35" /> .synax
-</p>
+###
 
-<br>
+<p align="center">Mostly putting random things together for platforms like RedM & FiveM</p>
 
-<h3 align="center">Tools</h3>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.navicat.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.navicat.com/images/05.AboutUs_00_milestone_2024_Navicat_17.svg" alt="Navicat" width="40" height="40"/> 
-  </a> 
-  <a href="https://termius.com" target="_blank" rel="noreferrer"> 
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/af/e7/68afe727-9b1f-270c-715d-c930c00ded74/icon.png/230x0w.webp" alt="Termius" width="40" height="40"/> 
-  </a> 
-</p>
+###
 
-<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+</div>
 
-<h3 align="center">Languages</h3>
-<p align="center"> 
-  <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"alt="lua" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg"alt="JavaScript" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="30" height="40" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
+###
+
+<div align="center">
+  <a href="https://discordapp.com/users/264212075390304256" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-</p>
+  <a href="https://ko-fi.com/thissynax" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="ko-fi logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisSynax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisSynax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
