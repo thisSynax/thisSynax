@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Mostly putting random things together for platforms like RedM & FiveM</p>
+<p align="center">Mostly coding random things for platforms like RedM & FiveM</p>
 
 ###
 
